@@ -1,2 +1,2 @@
 # shell-script
-shell scripting practice 
+Shell scripting practice 
